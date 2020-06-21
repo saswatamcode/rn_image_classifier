@@ -1,0 +1,17 @@
+{
+  "name": "RNImageClassifier",
+  "displayName": "RNImageClassifier",
+  "expo": {
+    "name": "RNImageClassifier",
+    "slug": "RNImageClassifier",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
